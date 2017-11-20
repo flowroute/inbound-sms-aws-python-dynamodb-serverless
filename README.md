@@ -1,2 +1,2 @@
-# inbound-sms-aws-python-dynamodb-serverless
-Create a serverless function that will let you receive messages on your Flowroute number and store the SMS details into a DynamoDB table. Deploy your Serverless service on Amazon AWS.
+# Receive and Store SMS using the Serverless Framework
+Create a serverless function that will let you receive messages on your Flowroute number and store the SMS details into a DynamoDB table. Deploy your Serverless service on Amazon AWS. To get started, follow <a href="https://developer.flowroute.com/docs/receive-store-inbound-sms-serverless/" target="_blank">the guide in our Developer Center</a>.
